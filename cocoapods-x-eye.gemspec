@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = 'cocoapods-x-eye'
   spec.version       = CocoapodsXEye::VERSION
   spec.authors       = ['戴易超']
-  spec.email         = ['daiyichao@souche.com']
+  spec.email         = ['daiyichao@icloud.com']
   spec.description   = %q{A short description of cocoapods-x-eye.}
   spec.summary       = %q{A longer description of cocoapods-x-eye.}
-  spec.homepage      = 'https://github.com/EXAMPLE/cocoapods-x-eye'
+  spec.homepage      = 'https://github.com/TyrantDante/cocoapods-x-eye.git'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
