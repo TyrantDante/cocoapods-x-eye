@@ -8,4 +8,4 @@ A description of cocoapods-x-eye.
 
 ## Usage
 
-    $ pod spec eye POD_NAME
+    $ pod eye single POD_NAME POD_VERSION
